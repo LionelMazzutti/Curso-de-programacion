@@ -1,0 +1,8 @@
+Respuestas 
+Variables: una variable es una forma de guardar un codigo para usar mas tarde
+Strings: las strings es un texto que definira la variable
+Funciones: las funciones se encargan de realizar una tarea designada
+Argumento: es un valor que se emplea cuando se ejecuta la funcion
+return: es la unica forma de extraer los datos de una funcion
+if: es la forma de comparar datos 
+Valores Booleanos: un valor Booleanos significa que hay 2 opciones en este caso en JS se usa True o False.
